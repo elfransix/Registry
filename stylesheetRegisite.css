@@ -1,0 +1,24 @@
+body { 
+    
+    background-image: url("jellyFish.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    color: darkolivegreen;
+    text-decoration: rgb(104, 134, 59);
+}
+nav {
+    text-decoration: rgb(104, 134, 59);
+}
+
+.sly {
+    margin: 2px;
+    margin-right: 1320px;
+
+
+    border: 2px solid darkorange;
+    padding-left: 20px;
+}
